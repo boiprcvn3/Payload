@@ -1,1 +1,1 @@
-alert(origin);
+function A(){alert(origin);}
